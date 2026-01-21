@@ -1,0 +1,58 @@
+site_name: Misogi - Reading in 2026
+site_url: https://mementum.github.io/misogi-reading-2026/
+site_description: Misogi - Reading 26 Books in 52 Weeks
+site_author: Daniel Rodriguez
+repo_url: https://github.com/mementum/misogi-reading-2026/
+copyright: Copyright &copy; 2026 Daniel Rodriguez
+# No need to redefine docs_dir, standard layout
+# docs_dir: ''
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search
+
+theme:
+  name: material
+
+  features:
+    - content.code.copy
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - toc.follow
+    - toc.integrate
+
+markdown_extensions:
+  - attr_list
+  - footnotes
+  - toc:
+      permalink: true
+
+  - pymdownx.blocks.admonition
+  - pymdownx.blocks.html
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.escapeall:
+      hardbreak: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tilde
+
+nav:
+    - index.md

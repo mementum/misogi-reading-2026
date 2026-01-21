@@ -1,0 +1,24 @@
+site/
+build.*/
+.venv/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# pdm specific files
+.pdm.toml
+.pdm-python
+.pdm-build/
+
+# C extensions
+*.so
+
+# Backups
+~$*
+*.bak
+*~
+.#*
+*#
+*.swp
+*.swo
