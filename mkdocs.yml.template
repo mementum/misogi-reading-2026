@@ -55,4 +55,5 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-    - index.md
+  - index.md
+  - 05-2026-01-19-the-art-of-thinking-clearly.md

@@ -1,9 +1,11 @@
-site_name: Tef Docs
-# site_url:
-site_description: Some Internal Documention
+site_name: Misogi - Reading in 2026
+site_url: https://mementum.github.io/misogi-reading-2026/
+site_description: Misogi - Reading 26 Books in 52 Weeks
 site_author: Daniel Rodriguez
-# repo_url:
-copyright: Copyright &copy; 2025 Daniel Rodriguez
+repo_url: https://github.com/mementum/misogi-reading-2026/
+copyright: Copyright &copy; 2026 Daniel Rodriguez
+# No need to redefine docs_dir, standard layout
+# docs_dir: ''
 
 extra_css:
   - stylesheets/extra.css
@@ -19,8 +21,8 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.top
     - navigation.tracking
     - toc.follow
@@ -53,28 +55,5 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - General:
-    - general/index.md
-    - general/fakeclient.md
-    - general/cyberresilience.md
-    - general/misc.md
-  - Fixed:
-    - devices/o2/index.md
-    - devices/o2/7741/index.md
-    - devices/o2/6741/index.md
-  - ONT:
-    - devices/ont/index.md
-    - devices/ont/ugg-vlan-faking.md
-    - devices/ont/ugg-mitra.md
-    - devices/ont/ugg-askey.md
-  - FMS:
-    - devices/fms/index.md
-  - Fritz:
-    - General:
-      - devices/fritz/index.md
-    - Fiber:
-      - devices/fritz/fiber/index.md
-      - devices/fritz/fiber/5530.md
-    - Cable:
-      - devices/fritz/cable/index.md
-      - devices/fritz/cable/ntp-ipv6.md
+  - index.md
+  - 05-2026-01-19-the-art-of-thinking-clearly.md

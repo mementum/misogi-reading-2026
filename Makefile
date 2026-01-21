@@ -108,7 +108,7 @@ mk-serve: mkdocs-serve
 mkdocs-serve: mkdocs
 	$(call echo_header,mkdocs-serve)
 	$(call find_tool_or_exit,$(MKDOCS),$(PDM_RUN))
-	$(PDM_RUN) $(MKDOCS) serve
+	$(PDM_RUN) $(MKDOCS) serve --livereload
 
 # serve, but first killing it if running and serving in the background
 mkdocs-bserve: mkdocs mkdocs-kill
