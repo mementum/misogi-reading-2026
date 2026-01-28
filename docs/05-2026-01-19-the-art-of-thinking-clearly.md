@@ -10,11 +10,11 @@
 
 **Recommended**: Yes
 
+**Summary:** the author has been accumulating ideas over the years about how we all fail due to life tricks, illusions, feelings, and similar factors, and how these can influence our decisions. He even explains how he has fallen for many of them himself (and still does for some) and offers a tip to try not to fall prey to a given cognitive bias (technical term).
+
 How this book is presented (on Amazon, for example) is misleading. It is touted as “life-changing” and as showing how making better choices has the power to transform your life—at work, at home, every day, forever.
 
 Well, this is not what I read in the book. I can certainly use the 99 decision traits—or some of them—presented by the author to make things better, but the author does not present the book or its content in the way the editor does.
-
-**Summary:** the author has been accumulating ideas over the years about how we all fail due to life tricks, illusions, feelings, and similar factors, and how these can influence our decisions. He even explains how he has fallen for many of them himself (and still does for some) and offers a tip to try not to fall prey to a given cognitive bias (technical term).
 
 The good thing is how these 99 (yes, 99) cognitive biases are presented and how the story of each one is developed.
 
