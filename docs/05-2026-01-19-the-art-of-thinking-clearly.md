@@ -12,7 +12,7 @@
 
 **Recommended**: Yes
 
-**Summary:** the author has been accumulating ideas over the years about how we all fail due to life tricks, illusions, feelings, and similar factors, and how these can influence our decisions. He even explains how he has fallen for many of them himself (and still does for some) and offers a tip to try not to fall prey to a given cognitive bias (technical term).
+**Summary**: The author has been accumulating ideas over the years about how we all fail due to life tricks, illusions, feelings, and similar factors, and how these can influence our decisions. He even explains how he has fallen for many of them himself (and still does for some) and offers a tip to try not to fall prey to a given cognitive bias (technical term).
 
 How this book is presented (on Amazon, for example) is misleading. It is touted as “life-changing” and as showing how making better choices has the power to transform your life—at work, at home, every day, forever.
 

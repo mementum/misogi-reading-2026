@@ -12,7 +12,7 @@
 
 **Recommended**: Yes
 
-**Summary:**: Tyler Hamilton opens the door to his life with the kind of candor you don’t expect from someone who has spent years mastering the art of not telling the truth. What follows is the familiar arc—rise, fall, get back up—but delivered with the momentum of a story that refuses to slow down.
+**Summary**: Tyler Hamilton opens the door to his life with the kind of candor you don’t expect from someone who has spent years mastering the art of not telling the truth. What follows is the familiar arc—rise, fall, get back up—but delivered with the momentum of a story that refuses to slow down.
 
 If you like cycling—and I definitely do—you’ll savor every page. I’m genuinely glad Hamilton teamed up with a real writer to tell this. Not because he couldn’t write it himself, but because the partnership gives the book the pacing and clarity of a well-run breakaway.
 
