@@ -56,4 +56,5 @@ markdown_extensions:
 
 nav:
   - index.md
+  - 02-2026-01-08-the-secret-race.md
   - 05-2026-01-19-the-art-of-thinking-clearly.md
