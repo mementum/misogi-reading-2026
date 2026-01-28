@@ -4,7 +4,9 @@
 
 **Author**: Rolf Dobelli
 
-**Amazon**: [https://www.amazon.de/Art-Thinking-Clearly-Better-Decisions/dp/B09L5L4QW2/ :octicons-link-external-16:](https://www.amazon.de/Art-Thinking-Clearly-Better-Decisions/dp/B09L5L4QW2/){:target=_blank}
+**Amazon**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
+
+[amazon-link]:https://www.amazon.de/Art-Thinking-Clearly-Better-Decisions/dp/B09L5L4QW2/
 
 **Completion**: 2026-01-19
 
