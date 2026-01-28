@@ -8,7 +8,7 @@
 
 [amazon-link]:https://www.amazon.de/Secret-Race-Inside-Cover-ups-Winning/dp/055216917X/
 
-**Completion**: 2026-01-07
+**Completion**: 2026-01-09
 
 **Recommended**: Yes
 

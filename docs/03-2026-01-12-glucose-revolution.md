@@ -1,4 +1,4 @@
-# #4 - Glucose Revolution
+# #3 - Glucose Revolution
 
 **Subtitle**: The life-changing power of balancing your blood sugar
 
