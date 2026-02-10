@@ -38,7 +38,7 @@ I also wonder whether this book was rushed out after *Taleb* read the draft of *
 
 The rushed nature shows. The early chapters contain many entries, but the volume tapers quickly to single‑page segments. Sensing the decline, the author tries to pad the final chapters, though the expansion is purely pyrrhic.
 
-At times, I even questioned the authorship: it wouldn’t surprise me if a pair of interns were handed stacks of handwritten notes, instructed to transcribe them and generate a thousand more *aphorisms* via “research”—i.e., *Google**. We will, naturally, never know.
+At times, I even questioned the authorship: it wouldn’t surprise me if a pair of interns were handed stacks of handwritten notes, instructed to transcribe them and generate a thousand more *aphorisms* via “research”—i.e., *Google*. We will, naturally, never know.
 
 There is one benefit: the *aphorisms* are shallow enough that you can finish the entire thing in a single day. The author recommends reading only four per day and pondering their profundity—a suggestion that feels like an attempt to convince readers there’s actually some substance here.
 
