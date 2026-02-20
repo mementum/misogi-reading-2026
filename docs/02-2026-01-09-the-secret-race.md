@@ -4,7 +4,7 @@
 
 **Author**: Daniel Coyle / Tyler Hamilton
 
-**Amazon**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
+**Link**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
 
 [amazon-link]:https://www.amazon.de/Secret-Race-Inside-Cover-ups-Winning/dp/055216917X/
 

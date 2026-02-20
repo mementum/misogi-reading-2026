@@ -4,7 +4,7 @@
 
 **Author**: Nassim Nicholas Taleb
 
-**Amazon**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
+**Link**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
 
 [amazon-link]: https://www.amazon.de/Bed-Procrustes-Philosophical-Practical-Aphorisms/dp/0812982401/
 
@@ -34,7 +34,7 @@ The main through-line I extracted from these aphorisms is *Taleb’s* profound d
 
 Some *aphorisms* are repeated verbatim. Literally. And the recurrence of similar ideas across chapters reminded me of filling out a U.S. immigration form: dozens of questions asking, in subtly altered wording, whether you intend to assassinate the president. Eventually you lose track of the double, triple, and quadratic negatives and fear you’ll accidentally incriminate yourself.
 
-I also wonder whether this book was rushed out after *Taleb* read the draft of *The Art of Thinking Clearly* by *Rolf Dobelli* (he mentions it in the text). *Dobelli’s* book uses brief logical‑fallacy “aphorisms,” one per chapter, surrounded by short narratives. It’s easy to imagine *Taleb* pushing his own aphoristic compilation to the market before *Dobelli’s** gained traction. Pure speculation.
+I also wonder whether this book was rushed out after *Taleb* read the draft of *The Art of Thinking Clearly* by *Rolf Dobelli* (he mentions it in the text). *Dobelli’s* book uses brief logical‑fallacy “aphorisms,” one per chapter, surrounded by short narratives. It’s easy to imagine *Taleb* pushing his own aphoristic compilation to the market before *Dobelli’s* gained traction. Pure speculation.
 
 The rushed nature shows. The early chapters contain many entries, but the volume tapers quickly to single‑page segments. Sensing the decline, the author tries to pad the final chapters, though the expansion is purely pyrrhic.
 

@@ -4,7 +4,7 @@
 
 **Author**: Jessie Inchauspé
 
-**Amazon**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
+**Link**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
 
 [amazon-link]:https://www.amazon.de/Glucose-Goddess-life-changing-power-balancing/dp/178072523X
 

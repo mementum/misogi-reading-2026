@@ -4,7 +4,7 @@
 
 **Author**: Alejandro Entrambasaguas
 
-**Amazon**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
+**Link**: [Amazon.de :octicons-link-external-16:][amazon-link]{:target=_blank}
 
 [amazon-link]:https://www.amazon.de/sagrada-familia-ascenso-mete%C3%B3rico-Actualidad/dp/8410941309/
 
