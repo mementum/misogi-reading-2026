@@ -2,7 +2,7 @@
 
 During one of those pointless discussions about objectives for the next year, a friend suddenly came up with the word *"Misogi"* and also added a link so that we could read about the topic.
 
-Link: <https://pursueperformance.com/misogi-challenge/>
+**Link**: [https://pursueperformance.com/misogi-challenge/ :octicons-link-external-16:][https://pursueperformance.com/misogi-challenge/]{:target=_blank}
 
 Unlike its [Wikipedia :octicons-link-external-16:][wiki-misogi]{:target=_blank} counterpart, it is not a religious ritual but the practice of setting a goal for oneself where success is not guaranteed.
 
